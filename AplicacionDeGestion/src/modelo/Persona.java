@@ -37,9 +37,6 @@ public class Persona {
 	public void probandoAlgo(){
 		
 	}
-	public void calculo() {
-		
-	}
 	
 	public void calculo2() {
 		
