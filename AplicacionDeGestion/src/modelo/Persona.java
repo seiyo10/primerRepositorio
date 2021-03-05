@@ -41,6 +41,10 @@ public class Persona {
 		
 	}
 	
+	public void calculo2() {
+		
+	}
+	
 	public String toString() {
 		return "paquito";
 	}
